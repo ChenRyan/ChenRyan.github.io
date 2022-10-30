@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{312:function(e,n,s){"use strict";s.r(n);var t=s(0),u=Object(t.b)({__name:"index",setup:e=>({__sfc:!0})}),i=s(15),c=Object(i.a)(u,(function(){var e=this._self._c;this._self._setupProxy;return e("div",[this._v("\n      vue3笔记\n")])}),[],!1,null,"2102d9b1",null);n.default=c.exports}}]);
